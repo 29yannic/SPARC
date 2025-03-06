@@ -19,3 +19,26 @@ For Windows Users
 In order for you to be able to run Python from the command line and also inside the editor that we will be using, you need to make sure that you check the “Add python.exe to PATH” option when installing Python as seen in the Screenshot below.
 
 
+
+## Installing Python Packages
+
+With the installation of Python, a tool named “pip” should also be installed. pip is the package installer for Python that is used inside of the command line.
+
+To find out which packages there are we can look at the “Python Packaging Index” or PyPI for short under https://pypi.org.
+
+So since we want to use Phyton to remotely execute commands on a machine inside our network, we install the following package:
+```
+pip3 install networkdevice
+```
+
+To update the package, use
+```
+C:\Program Files\WinPython38_64bit\python-3.8.6.amd64\python.exe -m pip install --upgrade pip
+```
+
+After running this command, the networkdevice package should be successfully installed.
+Please now hit 
+```
+pip3 list
+```
+This should give you an overview about the installed packages.
