@@ -1,0 +1,3 @@
+## Syntax of a Programming Language
+
+Imagine programming languages as different languages spoken by programmers. Just as English, Spanish, or French have unique grammar and vocabulary, programming languages like Python, Java, or C++ have their own syntax. Each language has its own set of rules and conventions for writing code. These rules dictate the structure of statements, the use of symbols and keywords, and the organization of code.
