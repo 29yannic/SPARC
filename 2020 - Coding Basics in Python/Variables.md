@@ -9,3 +9,6 @@ Definition involves assigning an initial value to a variable. It gives the varia
 ### Initialization
 Initialization refers to the process of assigning an initial value to a declared or defined variable
 
+### Lifetime of a Variable
+Variables only exist during the runtime of a program.
+Once executed, the varaibles are no longer stored in the memory.
